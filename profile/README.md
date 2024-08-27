@@ -4,11 +4,11 @@ Project founder here. Please, let me explain it.
 
 EditIDE is a product made by web creators, for web creators.
 
-Our goal is to create a all-in one web application, to create others web applications.
+My goal is to create a all-in one web application, to create others web applications.
 
 Unless others CMS, web-builders, and no-code tools, EditIDE is meant to visualize whole projects easiers, without hidding the real code within.
 
-We want every web project's actors to be able to quickly find what they need to work.
+I want every web project's actors to be able to quickly find what they need to work.
 
 <!--
 
