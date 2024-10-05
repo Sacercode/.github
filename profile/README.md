@@ -8,7 +8,7 @@ My goal is to create a all-in one web application, to create others web applicat
 
 Unless others CMS, web-builders, and no-code tools, EditIDE is meant to visualize whole projects easiers, without hidding the real code within.
 
-I want every web project's actors to be able to quickly find what they need to work.
+I want every web project's actors to be able to quickly find what they need to work on.
 
 <!--
 
