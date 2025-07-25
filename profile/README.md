@@ -10,6 +10,8 @@ Unless others CMS, web-builders, and no-code tools, EditIDE is meant to visualiz
 
 I want every web project's actors to be able to quickly find what they need to work on.
 
+You can install some of the projects made and used for EditIDE using your favorite package manager. I made them available on [NPM](https://www.npmjs.com/~edocode.fr)
+
 <!--
 
 **Here are some ideas to get you started:**
